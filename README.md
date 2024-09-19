@@ -21,8 +21,8 @@ _(Deleted tags would be still pinned to existing notes. You can search notes by 
 <img src='./images/readme/Screenshot from 2024-05-20 20-29-07.png'>
 
 ## Notifications
-- Display details of notified note by clicking Arrow icon.
-- Mark notification as readed by clicking OK icon.
-_(Marked notification would be no longer avilable.)_
+- Display details of notified note by clicking "arrow" icon.
+- Mark notification as readed by clicking "OK" icon.
+_(Marked notification would not be longer avilable.)_
 <img src='./images/readme/Screenshot from 2024-05-20 20-15-28.png'>
 
